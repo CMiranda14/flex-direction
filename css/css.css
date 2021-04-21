@@ -1,0 +1,107 @@
+*{
+    margin:auto;
+    padding:0;
+}
+
+.margen{
+    display: flex;
+    flex-direction:column;
+    justify-content:;
+    padding: 10px;
+    margin:auto;
+    
+}
+
+.contenedor{
+    border:black solid 0.5px;
+    width:1000px;
+    
+}
+
+.titulo{
+    text-align:center;
+    padding: 50px;
+    font-family:verdana;
+    font-size:25px;
+    color:#d94848;
+}
+
+.caja1{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+}
+
+.caja1 div{
+    background-color:#310f40;
+    width: 100px;
+    height:80px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 15px;
+    padding: 20px 0px 0px 0px;
+}
+
+.caja2{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:center;
+}
+
+.caja2 div{
+    background-color:#310f40;
+    width: 100px;
+    height:80px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 10px 15px;
+    padding: 20px 0px 0px 0px;
+}
+
+.contenedor2{
+    border:black solid 0.5px;
+    width:1000px;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+
+.caja3{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    padding:10px 0px 10px 0px;
+}
+
+.caja3 div{
+    background-color:#9ad2d9;
+    width: 450px;
+    height:80px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 2px 10px;
+    padding: 10px 0px 0px 0px;
+}
+
+.caja4{
+   display: flex;
+    flex-direction:column;
+    justify-content:center;
+    padding: 10px 0px 10px 0px;
+}
+
+.caja4 div{
+    background-color:#d9644a;
+    width: 450px;
+    height:80px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 2px 10px;
+    padding: 10px 0px 0px 0px;
+}
+
+
