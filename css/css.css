@@ -14,7 +14,7 @@
 
 .contenedor{
     border:black solid 0.5px;
-    width:1000px;
+    width:1300px;
     
 }
 
@@ -34,7 +34,7 @@
 
 .caja1 div{
     background-color:#310f40;
-    width: 100px;
+    width: 150px;
     height:80px;
     color: white;
     text-align: center;
@@ -51,7 +51,7 @@
 
 .caja2 div{
     background-color:#310f40;
-    width: 100px;
+    width: 150px;
     height:80px;
     color: white;
     text-align: center;
@@ -62,7 +62,7 @@
 
 .contenedor2{
     border:black solid 0.5px;
-    width:1000px;
+    width:1300px;
     display: flex;
     flex-direction:row;
     justify-content:space-around;
@@ -77,7 +77,7 @@
 
 .caja3 div{
     background-color:#9ad2d9;
-    width: 450px;
+    width: 620px;
     height:80px;
     color: white;
     text-align: center;
@@ -95,7 +95,7 @@
 
 .caja4 div{
     background-color:#d9644a;
-    width: 450px;
+    width: 620px;
     height:80px;
     color: white;
     text-align: center;
